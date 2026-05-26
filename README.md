@@ -74,10 +74,20 @@ Terminal UI for scanning ports, identifying what's running, and reserving free o
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
 
+**Networking & infrastructure**
+
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-informational?style=flat-square&logo=cisco&logoColor=white&color=1BA0D7)
+![DNS](https://img.shields.io/badge/DNS-informational?style=flat-square&logo=cloudflare&logoColor=white&color=F38020)
+![VLANs](https://img.shields.io/badge/VLANs-informational?style=flat-square&color=555)
+![Firewalls](https://img.shields.io/badge/Firewalls-informational?style=flat-square&color=555)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![pfSense](https://img.shields.io/badge/pfSense-212121?style=flat-square&logo=pfsense&logoColor=white)
+
+> Home lab networking — VLANs, DNS, firewalls, traffic analysis. Not a CCNA but close enough to know when something's wrong on the wire.
+
 **Security**
 
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%207%25-red?style=flat-square&logo=tryhackme&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 
 ---
 
@@ -85,9 +95,9 @@ Terminal UI for scanning ports, identifying what's running, and reserving free o
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Garuda8887&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=3600" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=Garuda8887&theme=tokyonight&hide_border=true" height="165"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garuda8887&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=3600" height="165"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Garuda8887&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
