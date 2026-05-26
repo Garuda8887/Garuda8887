@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=header&animation=fadeIn"/>
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Karan+%F0%9F%91%8B;CS+graduate+%C2%B7+Behavioural+science;Privacy-first+tools+for+real+people;Security+%C2%B7+Education+%C2%B7+Self-hosted" alt="Typing SVG" />
@@ -59,20 +61,11 @@ Terminal UI for scanning ports, identifying what's running, and reserving free o
 
 ## Stack
 
-**Languages**
+**Languages & tools**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-
-**Infrastructure & tools**
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,js,nodejs,bash,linux,docker,nginx,sqlite&perline=8"/>
+</a>
 
 **Networking & infrastructure**
 
@@ -99,6 +92,13 @@ Terminal UI for scanning ports, identifying what's running, and reserving free o
 &nbsp;
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Garuda8887&theme=tokyo-night&hide_border=true&area=true" />
 
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Garuda8887/Garuda8887/output/snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/Garuda8887/Garuda8887/output/snake.svg"/>
+</picture>
+
 </div>
 
 ---
@@ -112,3 +112,5 @@ Terminal UI for scanning ports, identifying what's running, and reserving free o
 *I build for people first, developers second.*
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=80&section=footer"/>
