@@ -59,7 +59,6 @@ Terminal UI for scanning ports, identifying what's running, and reserving free o
 
 `Python` `Textual` `Networking` `TUI`
 
-![Stars](https://img.shields.io/github/stars/Garuda8887/PortScout?style=flat-square&color=6366F1&logo=github&label=stars)
 
 </td>
 </tr>
@@ -95,10 +94,6 @@ Terminal UI for scanning ports, identifying what's running, and reserving free o
 ## Stats
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Garuda8887&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1"/>
-
-<br/>
 
 <img src="https://streak-stats.demolab.com/?user=Garuda8887&theme=tokyonight&hide_border=true" height="165"/>
 &nbsp;
