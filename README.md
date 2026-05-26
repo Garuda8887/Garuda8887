@@ -1,14 +1,16 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Karan+%F0%9F%91%8B;Self-taught+developer;Security+%C2%B7+AI+tooling+%C2%B7+Full-stack;I+build+things+I+actually+need" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Karan+%F0%9F%91%8B;CS+graduate+%C2%B7+Behavioural+science;Privacy-first+tools+for+real+people;Security+%C2%B7+Education+%C2%B7+Self-hosted" alt="Typing SVG" />
 
 </div>
 
 ---
 
-I don't have a CS degree. What I have is a home lab, a habit of building tools to solve my own problems, and a few years of learning by shipping things. I work across security tooling, AI-powered utilities, and full-stack web — whatever the problem calls for.
+CS graduate with a background in behavioural science — including addiction psychiatry research at Harvard Medical School. I build privacy-first tools that are designed to actually be usable, not just by developers, but by anyone.
 
-Currently into: **defensive cybersecurity**, **self-hosted infrastructure**, and anything that involves making computers do tedious work so I don't have to.
+I believe the best software is invisible — it solves the problem without asking the user to understand how it works. That philosophy shows up in everything I build: clean interfaces, self-hosted by default, no unnecessary complexity.
+
+Deep into **defensive cybersecurity**, **cognitive science applied to learning**, and keeping data where it belongs — on your own hardware.
 
 ---
 
@@ -19,7 +21,7 @@ Currently into: **defensive cybersecurity**, **self-hosted infrastructure**, and
 <td width="50%" valign="top">
 
 ### 🗓 [Recall](https://github.com/Garuda8887/recall)
-Self-hosted spaced repetition calendar. SM-2 algorithm, forgetting curves, knowledge graph, dark mode — full-stack with zero cloud dependency.
+Self-hosted spaced repetition calendar built on the SM-2 algorithm — the same science behind how memory actually works. Forgetting curves, knowledge graph, drag-and-drop scheduling. Designed for visual thinkers, not flashcard power users.
 
 `Node.js` `SQLite` `Vanilla JS` `Self-hosted`
 
@@ -27,7 +29,7 @@ Self-hosted spaced repetition calendar. SM-2 algorithm, forgetting curves, knowl
 <td width="50%" valign="top">
 
 ### ⚡ [SlowCraft](https://github.com/Garuda8887/SlowCraft)
-GPU-accelerated slow-motion generator powered by RIFE frame interpolation. Runs NCNN+Vulkan under the hood so it actually works at full quality.
+GPU-accelerated slow-motion generator using RIFE frame interpolation. Runs NCNN + Vulkan under the hood — real quality, not just lower playback speed. Simple GUI so anyone can use it.
 
 `Python` `RIFE` `NCNN` `Vulkan` `FFmpeg`
 
@@ -37,7 +39,7 @@ GPU-accelerated slow-motion generator powered by RIFE frame interpolation. Runs 
 <td width="50%" valign="top">
 
 ### 🔍 [Checker](https://github.com/Garuda8887/Checker)
-Parallelised OSINT scraper and media downloader. Regex/keyword filtering, SFW/NSFW controls, bulk downloads — built for research and archiving.
+Parallelised OSINT scraper and media downloader with regex/keyword filtering, SFW/NSFW controls, and bulk downloads. Built for research and archiving — fast, scriptable, no GUI needed.
 
 `Python` `OSINT` `CLI` `Parallel`
 
@@ -45,7 +47,7 @@ Parallelised OSINT scraper and media downloader. Regex/keyword filtering, SFW/NS
 <td width="50%" valign="top">
 
 ### 🛰 [PortScout](https://github.com/Garuda8887/PortScout)
-Terminal UI for scanning ports, identifying what's in use, and reserving free ones. Built with Textual for a proper interactive experience.
+Terminal UI for scanning ports, identifying what's running, and reserving free ones — built with Textual for a proper interactive experience rather than a wall of raw output.
 
 `Python` `Textual` `Networking` `TUI`
 
@@ -64,7 +66,7 @@ Terminal UI for scanning ports, identifying what's in use, and reserving free on
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-**Tools & infrastructure**
+**Infrastructure & tools**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
@@ -83,8 +85,9 @@ Terminal UI for scanning ports, identifying what's in use, and reserving free on
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Garuda8887&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garuda8887&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Garuda8887&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=3600" height="165"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garuda8887&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=3600" height="165"/>
 
 </div>
 
@@ -92,8 +95,10 @@ Terminal UI for scanning ports, identifying what's in use, and reserving free on
 
 <div align="center">
 
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Garuda8887.png)](https://tryhackme.com/p/Garuda8887)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Garuda8887%20%7C%20Top%207%25-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Garuda8887)
 
-*I build for myself first. If it's useful to you too, that's a bonus.*
+<br/>
+
+*I build for people first, developers second.*
 
 </div>
