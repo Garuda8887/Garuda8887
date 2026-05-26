@@ -27,6 +27,8 @@ Self-hosted spaced repetition calendar built on the SM-2 algorithm — the same 
 
 `Node.js` `SQLite` `Vanilla JS` `Self-hosted`
 
+![Stars](https://img.shields.io/github/stars/Garuda8887/recall?style=flat-square&color=6366F1&logo=github&label=stars)
+
 </td>
 <td width="50%" valign="top">
 
@@ -34,6 +36,8 @@ Self-hosted spaced repetition calendar built on the SM-2 algorithm — the same 
 GPU-accelerated slow-motion generator using RIFE frame interpolation. Runs NCNN + Vulkan under the hood — real quality, not just lower playback speed. Simple GUI so anyone can use it.
 
 `Python` `RIFE` `NCNN` `Vulkan` `FFmpeg`
+
+![Stars](https://img.shields.io/github/stars/Garuda8887/SlowCraft?style=flat-square&color=6366F1&logo=github&label=stars)
 
 </td>
 </tr>
@@ -45,6 +49,8 @@ Parallelised OSINT scraper and media downloader with regex/keyword filtering, SF
 
 `Python` `OSINT` `CLI` `Parallel`
 
+![Stars](https://img.shields.io/github/stars/Garuda8887/Checker?style=flat-square&color=6366F1&logo=github&label=stars)
+
 </td>
 <td width="50%" valign="top">
 
@@ -52,6 +58,8 @@ Parallelised OSINT scraper and media downloader with regex/keyword filtering, SF
 Terminal UI for scanning ports, identifying what's running, and reserving free ones — built with Textual for a proper interactive experience rather than a wall of raw output.
 
 `Python` `Textual` `Networking` `TUI`
+
+![Stars](https://img.shields.io/github/stars/Garuda8887/PortScout?style=flat-square&color=6366F1&logo=github&label=stars)
 
 </td>
 </tr>
@@ -88,10 +96,13 @@ Terminal UI for scanning ports, identifying what's running, and reserving free o
 
 <div align="center">
 
+<img src="https://github-profile-trophy.vercel.app/?username=Garuda8887&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1"/>
+
+<br/>
+
 <img src="https://streak-stats.demolab.com/?user=Garuda8887&theme=tokyonight&hide_border=true" height="165"/>
 &nbsp;
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Garuda8887&theme=tokyo-night&hide_border=true&area=true" />
-
 
 </div>
 
