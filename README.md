@@ -92,12 +92,6 @@ Terminal UI for scanning ports, identifying what's running, and reserving free o
 &nbsp;
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Garuda8887&theme=tokyo-night&hide_border=true&area=true" />
 
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Garuda8887/Garuda8887/output/snake-dark.svg"/>
-  <img src="https://raw.githubusercontent.com/Garuda8887/Garuda8887/output/snake.svg"/>
-</picture>
 
 </div>
 
