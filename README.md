@@ -4,6 +4,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Karan+%F0%9F%91%8B;CS+graduate+%C2%B7+Behavioural+science;Privacy-first+tools+for+real+people;Security+%C2%B7+Education+%C2%B7+Self-hosted" alt="Typing SVG" />
 
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Garuda8887&color=6366F1&style=flat-square&label=profile+views"/>
+
 </div>
 
 ---
