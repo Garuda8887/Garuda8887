@@ -66,6 +66,12 @@ Terminal UI for scanning ports, identifying what's running, and reserving free o
 
 ---
 
+## Guides
+
+📖 [HTTPS for any local service using Caddy](https://github.com/Garuda8887/tutorials/blob/master/https-caddy/README.md) — turn `http://192.168.x.x:port` into a trusted `https://yourservice.lan` with zero cert management
+
+---
+
 ## Stack
 
 **Languages & tools**
