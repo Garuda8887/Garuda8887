@@ -1,68 +1,76 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=header&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=07090E&height=100&section=header"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Karan+%F0%9F%91%8B;CS+graduate+%C2%B7+Behavioural+science;Privacy-first+tools+for+real+people;Security+%C2%B7+Education+%C2%B7+Self-hosted" alt="Typing SVG" />
+# Karan Guliya
+### Founder, [Dekrypt Security](https://dekryptsecurity.com)
 
-<br/>
+**Software, built secure.**  
+High-assurance software engineering, zero-knowledge architectures, and defensive security systems.
 
-<img src="https://komarev.com/ghpvc/?username=Garuda8887&color=6366F1&style=flat-square&label=profile+views"/>
+[![Website](https://img.shields.io/badge/dekryptsecurity.com-07090E?style=for-the-badge&logo=shield&logoColor=00F5D4)](https://dekryptsecurity.com)
+[![GitHub](https://img.shields.io/badge/Garuda8887-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Garuda8887)
 
 </div>
 
 ---
 
-CS graduate with a background in behavioural science — including addiction psychiatry research at Harvard Medical School. I build privacy-first tools that are designed to actually be usable, not just by developers, but by anyone.
+### Focus & Practice
 
-I believe the best software is invisible — it solves the problem without asking the user to understand how it works. That philosophy shows up in everything I build: clean interfaces, self-hosted by default, no unnecessary complexity.
+I engineer systems where security is a structural property of the build, not an afterthought.
 
-Deep into **defensive cybersecurity**, **cognitive science applied to learning**, and keeping data where it belongs — on your own hardware.
+My work spans high-assurance web architectures, zero-trust client isolation, and defensive security tooling. Background in computer science and behavioral science. 
+
+* **Firm:** [Dekrypt Security](https://dekryptsecurity.com) — Engineering secure web applications, mobile platforms, and cryptographic systems built against rigorous threat models.
+* **Architecture:** Static-first, minimal attack surface, 0 client-side trackers, strict cryptographic isolation.
+* **Research:** Ephemeral peer-to-peer conduits, zero-knowledge client encryption, and process telemetry.
 
 ---
 
-## Selected work
+### Selected Systems & Open-Source R&D
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🗓 [Recall](https://github.com/Garuda8887/recall)
-Self-hosted spaced repetition calendar built on the SM-2 algorithm — the same science behind how memory actually works. Forgetting curves, knowledge graph, drag-and-drop scheduling. Designed for visual thinkers, not flashcard power users.
+### 🔒 [whisperdrop](https://github.com/Garuda8887/whisperdrop)
+Zero-knowledge, single-read pastebin architecture. Payloads are encrypted entirely client-side using WebCrypto AES-256-GCM and destroyed immediately upon retrieval.
 
-`Node.js` `SQLite` `Vanilla JS` `Self-hosted`
+`WebCrypto API` `AES-256-GCM` `Zero-Knowledge`
 
-![Stars](https://img.shields.io/github/stars/Garuda8887/recall?style=flat-square&color=6366F1&logo=github&label=stars)
+**[Architecture Overview →](https://dekryptsecurity.com/projects/#whisperdrop)**
 
 </td>
 <td width="50%" valign="top">
 
-### ⚡ [SlowCraft](https://github.com/Garuda8887/SlowCraft)
-GPU-accelerated slow-motion generator using RIFE frame interpolation. Runs NCNN + Vulkan under the hood — real quality, not just lower playback speed. Simple GUI so anyone can use it.
+### ⚡ [DropZone](https://github.com/Garuda8887/DropZone)
+Encrypted browser-to-browser peer transport. Transfers files over WebRTC DataChannels using DTLS encryption with zero intermediate relay storage.
 
-`Python` `RIFE` `NCNN` `Vulkan` `FFmpeg`
+`WebRTC` `DTLS / SCTP` `P2P Conduit`
 
-![Stars](https://img.shields.io/github/stars/Garuda8887/SlowCraft?style=flat-square&color=6366F1&logo=github&label=stars)
+**[Architecture Overview →](https://dekryptsecurity.com/projects/#dropzone)**
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🔍 [Checker](https://github.com/Garuda8887/Checker)
-Parallelised OSINT scraper and media downloader with regex/keyword filtering, SFW/NSFW controls, and bulk downloads. Built for research and archiving — fast, scriptable, no GUI needed.
+### 🛰️ [PortScout](https://github.com/Garuda8887/PortScout)
+Interactive terminal telemetry system for socket inspection, local port mapping, and process correlation.
 
-`Python` `OSINT` `CLI` `Parallel`
+`Python` `Process Telemetry` `TUI`
 
-![Stars](https://img.shields.io/github/stars/Garuda8887/Checker?style=flat-square&color=6366F1&logo=github&label=stars)
+**[Architecture Overview →](https://dekryptsecurity.com/projects/#portscout)**
 
 </td>
 <td width="50%" valign="top">
 
-### 🛰 [PortScout](https://github.com/Garuda8887/PortScout)
-Terminal UI for scanning ports, identifying what's running, and reserving free ones — built with Textual for a proper interactive experience rather than a wall of raw output.
+### 🗓️ [Recall](https://github.com/Garuda8887/recall)
+Self-hosted cognitive retrieval engine and knowledge graph implementing spaced-repetition scheduling algorithms.
 
-`Python` `Textual` `Networking` `TUI`
+`Node.js` `SQLite` `Local-First`
 
+**[Architecture Overview →](https://dekryptsecurity.com/projects/)**
 
 </td>
 </tr>
@@ -70,57 +78,19 @@ Terminal UI for scanning ports, identifying what's running, and reserving free o
 
 ---
 
-## Guides
+### Engineering Publications
 
-📖 [HTTPS for any local service using Caddy](https://github.com/Garuda8887/tutorials/blob/master/https-caddy/README.md) — turn `http://192.168.x.x:port` into a trusted `https://yourservice.lan` with zero cert management
-
----
-
-## Stack
-
-**Languages & tools**
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,js,nodejs,bash,linux,docker,nginx,sqlite&perline=8"/>
-</a>
-
-**Networking & infrastructure**
-
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-informational?style=flat-square&logo=cisco&logoColor=white&color=1BA0D7)
-![DNS](https://img.shields.io/badge/DNS-informational?style=flat-square&logo=cloudflare&logoColor=white&color=F38020)
-![VLANs](https://img.shields.io/badge/VLANs-informational?style=flat-square&color=555)
-![Firewalls](https://img.shields.io/badge/Firewalls-informational?style=flat-square&color=555)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![pfSense](https://img.shields.io/badge/pfSense-212121?style=flat-square&logo=pfsense&logoColor=white)
-
-> Home lab networking — VLANs, DNS, firewalls, traffic analysis. Not a CCNA but close enough to know when something's wrong on the wire.
-
-**Security**
-
-![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%207%25-red?style=flat-square&logo=tryhackme&logoColor=white)
-
----
-
-## Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=Garuda8887&theme=tokyonight&hide_border=true" height="165"/>
-&nbsp;
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Garuda8887&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
+* **[Defense-in-Depth for Static Edge Deployments](https://dekryptsecurity.com/blog/securing-a-static-site-on-cloudflare-pages/)** — Production hardening on Cloudflare Pages with zero third-party runtime.
+* **[Web App, PWA, or Native Client](https://dekryptsecurity.com/blog/web-app-pwa-or-native-app/)** — Architectural trade-offs across threat models, maintenance, and attack surface.
+* **[Personal Security Architecture](https://dekryptsecurity.com/blog/personal-security-setup-in-a-weekend/)** — Threat modeling, credentials isolation, and recovery protocol design.
 
 ---
 
 <div align="center">
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Garuda8887%20%7C%20Top%207%25-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Garuda8887)
-
-<br/>
-
-*I build for people first, developers second.*
+```
+PGP / Inquiries: hello@dekryptsecurity.com
+Production: https://dekryptsecurity.com
+```
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=80&section=footer"/>
